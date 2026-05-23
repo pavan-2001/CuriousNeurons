@@ -1,18 +1,10 @@
 # CuriousNeurons: A Deep Learning Playground
 
-Welcome to **CuriousNeurons**, where we invite you to stimulate your neurons with curiosity! This repository serves as a playground for the inquisitive mind, offering a hands-on exploration of Deep Learning and Machine Learning concepts.
+Welcome to **CuriousNeurons**, where we invite you to stimulate your neurons with curiosity!
 
 ## About the Repository
 
-CuriousNeurons is inspired by the foundational work of renowned experts such as Aaron Courville, Ian Goodfellow, and Yoshua Bengio. We believe in the power of curiosity to drive learning and innovation, and this repository is designed to be a dynamic space for the curious minds eager to delve into the exciting world of AI.
-
-## What to Expect
-
-- **Interactive Learning:** Dive into hands-on exploration that encourages active learning.
-  
-- **Conceptual Depth:** Uncover the profound concepts of Deep Learning and Machine Learning in a way that resonates with the pioneering work of Courville, Goodfellow, and Bengio.
-
-- **Inspiration from Experts:** Draw inspiration from the luminaries of the field as you navigate through the repository's curated content.
+A personal learning repository where I build everything from scratch as I explore Artificial Intelligence and Machine Learning. Covering core concepts, algorithms, and hands-on projects step by step.
 
 ## Contribution Guidelines
 
